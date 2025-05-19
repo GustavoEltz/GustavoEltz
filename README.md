@@ -22,10 +22,10 @@ Atualmente no Brasil, explorando tecnologias que transformam ideias em soluçõe
 ## 📚 Projetos
 
 - Projeto integrador da faculdade IENH!  
-  ![Projeto Integrador]([https://via.placeholder.com/400x100?text=Projeto+Integrador+IENH](https://github.com/JP-Bortolaci/Projeto-Integrador))  
+  [![Projeto Integrador](https://via.placeholder.com/400x100?text=Projeto+Integrador+IENH)](https://github.com/JP-Bortolaci/Projeto-Integrador)  
 
 - Bot de validação para servidores de Discord!  
-  ![Bot Discord]([https://via.placeholder.com/400x100?text=Bot+Discord](https://github.com/GustavoEltz/bottest))  
+  [![Bot Discord](https://via.placeholder.com/400x100?text=Bot+Discord)](https://github.com/GustavoEltz/bottest)
 
 ---
 
