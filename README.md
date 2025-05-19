@@ -17,7 +17,8 @@ Atualmente no Brasil, explorando tecnologias que transformam ideias em soluçõe
 
 ## 📚 Projetos
 
-- Projetos integrados da faculdade IENH (em breve adiciono o link do meu LinkedIn)
+- Projeto integrador da faculdade IENH!
+- Bot de validação para servidores de Discord!
 
 ---
 
