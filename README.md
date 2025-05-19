@@ -1,16 +1,48 @@
-## Hi there 👋
+# Olá, eu sou o Gustavo Eltz 👋
 
-<!--
-**GustavoEltz/GustavoEltz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou **Estudante de TI** focado em **desenvolvimento web**, apaixonado por **dados** e **inteligência artificial**.  
+Atualmente no Brasil, explorando tecnologias que transformam ideias em soluções reais.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+
+- Gosto muito de trabalhar com **Docker** e **PHP**  
+- Tenho interesse especial nas áreas de **automação** e **frontend**  
+- Curto bastante montar **teclados mecânicos customizados** — meu hobby tech fora do código!  
+- Minha frase favorita:  
+> "A sorte prevalece aos corajosos"  
+
+---
+
+## 📚 Projetos
+
+- Projetos integrados da faculdade IENH (em breve adiciono o link do meu LinkedIn)
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+<div>
+  <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+</div>
+
+---
+
+## 📫 Contato
+
+🔗 [LinkedIn](#) (vou atualizar depois)  
+📧 GustavoEltz@example.com (coloque seu e-mail aqui se quiser)  
+
+---
+
+**Vamos codar e construir coisas incríveis juntos! 🚀**
+
+---
+
+_Obrigado por visitar meu perfil!_
+
