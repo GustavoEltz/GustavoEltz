@@ -1,4 +1,8 @@
-# Olá, eu sou o Gustavo Eltz 👋
+# <div align="center">Olá, eu sou o Gustavo Eltz 👋</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/26tPoyDhjiJ2g7rEs/giphy.gif" alt="Programação" width="300"/>
+</div>
 
 Sou **Estudante de TI** focado em **desenvolvimento web**, apaixonado por **dados** e **inteligência artificial**.  
 Atualmente no Brasil, explorando tecnologias que transformam ideias em soluções reais.
@@ -17,8 +21,11 @@ Atualmente no Brasil, explorando tecnologias que transformam ideias em soluçõe
 
 ## 📚 Projetos
 
-- Projeto integrador da faculdade IENH!
-- Bot de validação para servidores de Discord!
+- Projeto integrador da faculdade IENH!  
+  ![Projeto Integrador](https://via.placeholder.com/400x100?text=Projeto+Integrador+IENH)  
+
+- Bot de validação para servidores de Discord!  
+  ![Bot Discord](https://via.placeholder.com/400x100?text=Bot+Discord)  
 
 ---
 
@@ -30,6 +37,20 @@ Atualmente no Brasil, explorando tecnologias que transformam ideias em soluçõe
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+</div>
+
+---
+
+## 📊 Minhas estatísticas no GitHub
+
+<div align="center">
+  <a href="https://github.com/GustavoEltz">
+    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=GustavoEltz&show_icons=true&theme=radical" />
+  </a>
+  <br />
+  <a href="https://github.com/GustavoEltz">
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoEltz&layout=compact&theme=radical" />
+  </a>
 </div>
 
 ---
@@ -46,4 +67,3 @@ Atualmente no Brasil, explorando tecnologias que transformam ideias em soluçõe
 ---
 
 _Obrigado por visitar meu perfil!_
-
