@@ -21,11 +21,11 @@ Atualmente no Brasil, explorando tecnologias que transformam ideias em soluçõe
 
 ## 📚 Projetos
 
-- Projeto integrador da faculdade IENH!  
-  [![Projeto Integrador](https://via.placeholder.com/400x100?text=Projeto+Integrador+IENH)](https://github.com/JP-Bortolaci/Projeto-Integrador)  
+### Sistema de Gestão de Estoque – Projeto Integrador IENH  
+[![Projeto Integrador IENH](https://raw.githubusercontent.com/GustavoEltz/assets/main/projeto-ienh-banner.png)](https://github.com/JP-Bortolaci/Projeto-Integrador)
 
-- Bot de validação para servidores de Discord!  
-  [![Bot Discord](https://via.placeholder.com/400x100?text=Bot+Discord)](https://github.com/GustavoEltz/bottest)
+### Bot de Verificação Automática – Discord  
+[![Bot Discord](https://raw.githubusercontent.com/GustavoEltz/assets/main/bot-discord-banner.png)](https://github.com/GustavoEltz/bottest)
 
 ---
 
@@ -44,7 +44,7 @@ Atualmente no Brasil, explorando tecnologias que transformam ideias em soluçõe
 ## 📫 Contato
 
 🔗 [LinkedIn](#) (vou atualizar depois)  
-📧 GustavoEltz@example.com (coloque seu e-mail aqui se quiser)  
+📧 GustavoEltz@example.com  
 
 ---
 
