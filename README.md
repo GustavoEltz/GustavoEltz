@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/26tPoyDhjiJ2g7rEs/giphy.gif" alt="Programação" width="300"/>
 </div>
 
-Sou **Estudante de TI** focado em **desenvolvimento web**, apaixonado por **dados** e **inteligência artificial**.  
+Sou **Estudante de TI** focado em **desenvolvimento web**, apaixonado por **dados** e **Nuvem**.  
 Atualmente no Brasil, explorando tecnologias que transformam ideias em soluções reais.
 
 ---
